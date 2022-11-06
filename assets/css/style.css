@@ -424,6 +424,11 @@ td.fellox__table__p0 {
 		
 	}
 
+	button.active {
+		background: var(--text-color) !important;
+		color: white !important;
+	}
+
 	.meinfo{
 		padding: 80px 10px 10px 10px;
 	}
