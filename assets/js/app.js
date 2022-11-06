@@ -28,3 +28,9 @@
     });
 
 })(jQuery);
+
+// add an id to the <video> tag
+// select element with given id and remove the "controls" attribute
+
+const element = document.getElementById("YourElementId");
+element.removeAttribute("controls");
